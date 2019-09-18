@@ -1,1 +1,1 @@
-# Update this for Project to JenkinsPoll SCM
+# Update this for Project to JenkinsPoll
